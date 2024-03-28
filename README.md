@@ -1,4 +1,3 @@
-Introduction
 Hello! I'm @Hajagan, a passionate Data Analyst with a keen interest in leveraging data to derive meaningful insights and contribute to informed decision-making. This README provides a glimpse into my interests, ongoing learning, collaboration opportunities, contact information, preferred pronouns, and a fun fact about me.
 
 👀 Interests
